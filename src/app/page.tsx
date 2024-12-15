@@ -36,6 +36,7 @@ const Homepage = () => {
                     <h2 className="w-[205px] h-[35px] font-Inter text-[32px] leading-[35.2px] text-[#272343]">Our Products</h2>
                 </div>
 
+            <OurProducts/>
             </div>
             
         </div>
